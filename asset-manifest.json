@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/traveladvice/static/js/main.9a569e0d.chunk.js",
+    "main.js.map": "/traveladvice/static/js/main.9a569e0d.chunk.js.map",
+    "runtime-main.js": "/traveladvice/static/js/runtime-main.13d3688f.js",
+    "runtime-main.js.map": "/traveladvice/static/js/runtime-main.13d3688f.js.map",
+    "static/js/2.94e64294.chunk.js": "/traveladvice/static/js/2.94e64294.chunk.js",
+    "static/js/2.94e64294.chunk.js.map": "/traveladvice/static/js/2.94e64294.chunk.js.map",
+    "index.html": "/traveladvice/index.html",
+    "static/js/2.94e64294.chunk.js.LICENSE.txt": "/traveladvice/static/js/2.94e64294.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d3688f.js",
+    "static/js/2.94e64294.chunk.js",
+    "static/js/main.9a569e0d.chunk.js"
+  ]
+}
