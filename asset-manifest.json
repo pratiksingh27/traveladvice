@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/traveladvice/static/js/main.dd42da4c.chunk.js",
-    "main.js.map": "/traveladvice/static/js/main.dd42da4c.chunk.js.map",
+    "main.js": "/traveladvice/static/js/main.ea30bd66.chunk.js",
+    "main.js.map": "/traveladvice/static/js/main.ea30bd66.chunk.js.map",
     "runtime-main.js": "/traveladvice/static/js/runtime-main.13d3688f.js",
     "runtime-main.js.map": "/traveladvice/static/js/runtime-main.13d3688f.js.map",
     "static/js/2.94e64294.chunk.js": "/traveladvice/static/js/2.94e64294.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.13d3688f.js",
     "static/js/2.94e64294.chunk.js",
-    "static/js/main.dd42da4c.chunk.js"
+    "static/js/main.ea30bd66.chunk.js"
   ]
 }
